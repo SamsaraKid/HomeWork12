@@ -1,0 +1,25 @@
+div{
+    margin: auto;
+}
+
+#wrap{
+    width: 70%;
+    height: min-content;
+    border: darkviolet double 20px;
+    border-radius: 10%;
+    background-color: blue;
+    text-align: center;
+}
+
+h2{
+    color: yellow;
+}
+
+#pirate1_div{
+    width: 50%;
+}
+
+#pirate1_div img{
+    width: 100%;
+}
+
