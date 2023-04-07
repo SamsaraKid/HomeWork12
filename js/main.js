@@ -21,8 +21,7 @@ function guess(){
         }
     }    else {
             $('#result').text('Попытки исчерпаны :(')
-            // ansver = Math.floor(Math.random() * (Math.abs(start_number - end_number) + 1)) + Math.min(start_number,end_number)
-            // attempts = 0
+            alert('Вы проиграли. Для возобновления игры обновите страницу')
     }
     $('#input_field').val('')
 }
